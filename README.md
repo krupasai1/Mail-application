@@ -18,7 +18,7 @@ This Python application provides a simple and intuitive graphical user interface
 - Copy the generated password; you'll use it in the code.
 
 ### 3. Update Code with Your Credentials
-In the Python script (`mail_app.py`), replace the following placeholders:
+In the Python script (`mail.py`), replace the following placeholders:
 # Replace with your actual Gmail email address
 email_address = "Your Email Address"
 # Replace with the App Password generated in step 2
